@@ -1,2 +1,3 @@
 # AudioToText
-Streamlit application that converts audio to text
+Streamlit приложение, преобразующее аудио любой длины и любого формата в текст (при помощи openai, требуется openai api)
+Также необходимо установить ffmpeg для корректной работы программы
